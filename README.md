@@ -1,5 +1,5 @@
-# Preprocessing: preprocess.py
-## Step 1: Split the dataset.
+# Preprocessing: 
+## Step 1: Split the dataset. preprocess.py
 
 Use function ```preprocessor.split_dataset()``` to split the dataset into training, validation, and test sets.
 
