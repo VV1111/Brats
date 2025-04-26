@@ -1,4 +1,7 @@
 # ignore
+__pycache__/
+*.pyc
+
 .DS_Store
 
 data_prep/crop_info_dir/
