@@ -1,0 +1,6 @@
+# ignore
+.DS_Store
+
+data_prep/crop_info_dir/
+data_prep/gz_data/
+data_prep/merged_nii/
